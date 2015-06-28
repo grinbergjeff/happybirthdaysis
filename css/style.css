@@ -1,0 +1,38 @@
+body {
+	font-family: 'Josefin Slab', serif;
+	text-align: center;
+	background-color: #110000;
+}
+.header {
+	height: 400px;
+	
+}
+.header h1 {
+	margin-top: -40%;
+	font-size: 70px;
+	color: #F5F5F5;
+}
+.circle {
+	text-align: center;
+	border-radius: 50%;
+	height: 200px;
+	width: 200px;
+	margin: auto;
+	background-color: #FF556A;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+}
+.circle h2 {
+	padding-top: 35%;	
+}
+.circle:hover {
+	background-color: darksalmon;
+}
+.mean, .nice {
+	margin: 60px;
+	color: #F5F5F5;
+	font-size: 150%;
+}
